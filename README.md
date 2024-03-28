@@ -8,12 +8,12 @@
   d'exécuter le SQL généré.
 
 ## Executez le projet
- - Par mesure de bonne pratique, créer un environnemnt:
+ - Par mesure de bonne pratique, créez un environnemnt:
    - **python3 -m venv venv-sql**.
    - **./venv-sql/Scripts/activate** (activate the environment for Windows).
-   - source **venv-sql/bin/activate** (activate the environment for Mac and Linux ).
+   - **source venv-sql/bin/activate** (activate the environment for Mac and Linux ).
  - Installez les pré-requis: **pip install -r requirements.txt**
- - Tapez **streamlit run app_test.py** (si vvous vouler visionner avec streamlit) ou **python app.py** (pour versionner avec flask)
+ - Tapez **streamlit run app_test.py** (visionnez avec streamlit) ou **python app.py** (visionnez avec flask)
 
 ## Produit Final
  - Regardons le produit final. À partir d'un exemple de base de données SQLite contenant des informations sur les ventes de disques,
