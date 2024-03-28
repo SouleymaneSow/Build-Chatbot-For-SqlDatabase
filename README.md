@@ -21,6 +21,6 @@
 - Maintenant posons une question à notre IA : **What is the total sales for each genre?** et regardons les réponses attendus
    - ![Montrer le code SQL généré et le Tableau correspondant](output_question1.PNG)
    - ![Utilisez l'IA pour générer un graphique et l'afficher](graphe-question1.PNG)
-- Posons une autre la question à notre IA : **What are the top 10 artists by sales?** et regardons les réponses attendus
+- Posons une autre question à notre IA : **What are the top 10 artists by sales?** et regardons les réponses attendus
   - ![Montrer le code SQL généré et le Tableau correspondant](output-question2.PNG)
   - ![Utilisez l'IA pour générer un graphique et l'afficher](graphe-question2.PNG)
