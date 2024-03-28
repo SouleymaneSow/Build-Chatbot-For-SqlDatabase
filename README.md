@@ -10,7 +10,8 @@
 ## Executez le projet
  - Par mesure de bonne pratique, créer un environnemnt:
        - **python3 -m venv venv-sql**
-       -  **./venv-sql/Scripts/activate** (activate the environment for Windows) ou source **venv-sql/bin/activate** (activate the environment for Mac and Linux )
+       -  **./venv-sql/Scripts/activate** (activate the environment for Windows)
+       - ou source **venv-sql/bin/activate** (activate the environment for Mac and Linux )
  - Installez les pré-requis: **pip install -r requirements.txt**
  - Tapez **streamlit run app_test.py** (si vvous vouler visionner avec streamlit) ou **python app.py** (pour versionner avec flask)
 
