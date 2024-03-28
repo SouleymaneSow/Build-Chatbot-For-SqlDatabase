@@ -18,7 +18,9 @@
 ## Produit Final
  - Regardons le produit final. À partir d'un exemple de base de données SQLite contenant des informations sur les ventes de disques,
     nous pouvons créer une zone de texte qui vous permet de poser n'importe quelle question en langage naturel :
-- Maintenant posons la question suivant à notre IA : **What is the total sales for each genre?** et regardons les réponses attendus
+- Maintenant posons une question à notre IA : **What is the total sales for each genre?** et regardons les réponses attendus
    - ![Montrer le code SQL généré et le Tableau correspondant](output_question1.PNG)
    - ![Utilisez l'IA pour générer un graphique et l'afficher](graphe-question1.PNG)
-   
+- Posons une autre la question à notre IA : **What are the top 10 artists by sales?** et regardons les réponses attendus
+  - ![Montrer le code SQL généré et le Tableau correspondant](output_question2.PNG)
+  - ![Utilisez l'IA pour générer un graphique et l'afficher](graphe-question2.PNG)
