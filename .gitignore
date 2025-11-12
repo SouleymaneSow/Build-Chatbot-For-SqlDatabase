@@ -1,0 +1,71 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# --- Virtual environments ---
+venv/
+venv_sql/
+env/
+.venv/
+ENV/
+
+# --- Build & packaging ---
+build/
+dist/
+*.wheel
+*.tar.gz
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Streamlit cache ---
+.streamlit/
+.streamlit/secrets.toml
+
+# --- Environment variables ---
+.env
+.env.local
+.env.*.local
+
+# --- Test / coverage ---
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# --- Documentation builds ---
+docs/_build/
+site/
+*.md.html
+
+# --- GitHub Pages artifacts ---
+# (je gardes index.md mais ignores les fichiers générés automatiquement)
+*.html
+*.pdf
+
+# --- Images / media ---
+# Tu gardes les captures importantes (output_question1.PNG, demo.gif)
+# mais ignores les fichiers temporaires ou lourds
+*.mp4
+*.avi
+*.mov
+*.bak
