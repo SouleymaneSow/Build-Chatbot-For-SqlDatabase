@@ -110,7 +110,7 @@ Ce repo reste une vitrine pédagogique et technique : il illustre l’intégrati
 
 Voici une démonstration de l’application Streamlit en action :
 
-![Demo Streamlit](demo.git.gif)
+![Demo Streamlit](demo.gif)
 
 ---
 
