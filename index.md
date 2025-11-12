@@ -114,11 +114,5 @@ Voici une démonstration de l’application Streamlit en action :
 
 ---
 
-Voici une démonstration de l’application Flask en action :
-
-![Demo Flask](demo-flask.gif)
-
----
-
 ## 📂 Voir le code sur GitHub
 👉 [Lien pour voir le code sur Github](https://github.com/SouleymaneSow/Build-Chatbot-For-SqlDatabase)
