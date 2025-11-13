@@ -9,7 +9,7 @@
 
 
 Bienvenue sur la documentation de mon projet **Chatbot SQL**.  . Je suis **Souleymane Sow**, Data Engineer passionné par l’automatisation et l’optimisation des solutions data.
-Ce projet a été développé en **Mars 2024** avec la version **Vanna 0.20.0** et illustre une intégration complète entre un **LLM (Vanna)** et une base SQL (Chinook), avec une interface moderne en **Streamlit** ou **Flask**.
+Ce projet a été développé en **Mars 2024** avec la version **Vanna 0.2.0** et illustre une intégration complète entre un **LLM (Vanna)** et une base SQL (Chinook), avec une interface moderne en **Streamlit** ou **Flask**.
 
 ---
 
@@ -27,7 +27,7 @@ Certaines méthodes du SDK Python ont changé ou ne sont plus disponibles. Le co
 ---
 
 ## 🎯 Objectif
-Ce projet a été conçu en 2024 avec **Vanna 0.20.0** pour montrer comment un **LLM** peut interroger une base SQL en langage naturel et afficher les résultats dans une interface simple et visuelle.
+Ce projet a été conçu en 2024 avec **Vanna 0.2.0** pour montrer comment un **LLM** peut interroger une base SQL en langage naturel et afficher les résultats dans une interface simple et visuelle.
 
 Objectifs principaux :
 - Illustrer la puissance d’un chatbot capable de transformer une question en langage naturel en requête SQL
@@ -94,7 +94,7 @@ python app_test.py    # ou sur FLask
 ---
 
 ## ⚠️ Limitations
-Ce projet a été conçu avec Vanna 0.20.0 (2024).
+Ce projet a été conçu avec Vanna 0.2.0 (2024).
 
 Depuis certaines API Vanna ont changé → le code n’est plus directement exécutable avec les versions récentes.
 

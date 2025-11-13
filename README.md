@@ -10,7 +10,7 @@
 
 ## 📌 Contexte
 
-Ce projet a été développé en **Mars 2024** avec la version **Vanna 0.20.0**.
+Ce projet a été développé en **Mars 2024** avec la version **Vanna 0.2.0**.
 Il illustre une intégration complète entre un **LLM (Vanna)** et une base SQL (Chinook), avec une interface moderne en **Streamlit** ou **Flask**.
 
 ⚠️ **Attention : depuis lors, l’API Vanna a évolué.**
@@ -25,7 +25,7 @@ Certaines méthodes du SDK Python ont changé ou ne sont plus disponibles. Le co
 
 ## 🎯 Objectif
 
-Ce projet a été développé en 2024 avec **Vanna 0.20.0**.
+Ce projet a été développé en 2024 avec **Vanna 0.2.0**.
 L’objectif est de démontrer une intégration technique complète entre un **LLM (Vanna)** et une base SQL (Chinook), avec une interface moderne en **Streamlit** ou **Flask**.
 
 Il met en avant :
@@ -126,7 +126,7 @@ Ce projet inclut :
 ---
 
 ## ⚠️ Limitations
-Ce projet a été conçu avec Vanna 0.20.0 (2024).
+Ce projet a été conçu avec Vanna 0.2.0 (2024).
 
 Depuis certaines API Vanna ont changé → le code n’est plus directement exécutable avec les versions récentes.
 
